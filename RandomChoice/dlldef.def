@@ -1,0 +1,5 @@
+LIBRARY RandomChoice
+EXPORTS
+	createInstance @1
+	destroyInstance @2
+	getName @3
